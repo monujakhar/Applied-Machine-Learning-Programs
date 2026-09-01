@@ -1,7 +1,12 @@
 # Applied-Machine-Learning-Programs
+
 **List of Experiments**
+
 **_Sl. No.	Name of the Experiment_ **
-1	Given a data set from UCI repository, implement the different ways of handling missing values in it using Scikit-learn library of Python
+
+1	Given a data set from UCI repository, implement the different ways of handling missing values in it using Scikit-learn 
+library of Python
+
 2	Implement one of these methods using a custom defined function in Python.
 3	Perform Exploratory Data Analysis for a given data set by creating Scatter Plot, Pair Plot, Count Plot using Matplotlib and Seaborn
 4	Create Heat Maps, WordCloud
